@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning HTML and CSS.
+💬 Ask me about how I got into programming.
+⚡ Fun fact: I got into an accident the second day after I got my driving license. 
 
 <!--
 **N-PolarStar/N-PolarStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
