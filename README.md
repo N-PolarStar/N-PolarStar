@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning HTML and CSS.
+
 💬 Ask me about how I got into programming.
 ⚡ Fun fact: I got into an accident the second day after I got my driving license. 
 
