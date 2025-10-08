@@ -1,19 +1,45 @@
-### Hi there 👋
+# 👋 Hi, I’m **Baleid Bin Nehaid**
 
-💬 Ask me about how I got into programming.
-⚡ Fun fact: I got into an accident the second day after I got my driving license. 
+🎓 **MSc Data Science** — *Birkbeck, University of London*  
+💡 **BSc Health Science** — *Mount Royal University, Canada*  
+📍 *London, United Kingdom*
 
-<!--
-**N-PolarStar/N-PolarStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a **Data Science Master’s student** with a foundation in **health sciences**, experienced in **Python**, **machine learning**, and **data analytics**.  
+I’m passionate about solving real-world problems through data — transforming complex information into clear, actionable insights.
+
+My background combines research, analytics, and development — from **building NLP models** to **creating data-driven solutions** and **designing web interfaces**.  
+Currently, I’m working on a few exciting projects that I’ll be publishing soon, including:
+
+- 🪙 *Forecasting Gold Returns using Sentiment Analysis*  
+- 🤖 *LLM-based knowledge extraction and retrieval systems*  
+- ☁️ *Cloud computing for scalable data pipelines*
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages:**  
+`Python` · `R` · `SQL` · `JavaScript`
+
+**Libraries & Tools:**  
+`NumPy` · `Pandas` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `Matplotlib` · `Power BI` · `Tableau`
+
+**Special Interests:**  
+`Natural Language Processing (NLP)` · `LLMs` · `Agentic AI` · `Data Visualization` · `Cloud Computing`
+
+---
+
+## 🌱 Currently Learning
+
+- Improving my skills in **Large Language Models** and **retrieval-augmented generation (RAG)**  
+- Exploring **MLOps** and **production-level model deployment**  
+- Enhancing my expertise in **applied statistics** and **data engineering**
+
+
+
+
+⭐️ *Thanks for visiting! More projects coming soon...*
